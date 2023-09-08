@@ -1,6 +1,11 @@
 ### Hamroliyev Ahmadjon 👋, 
 
 I'm White .Net software engineer.
+
+₀₀₀₀₀₀₀₀₀₀₀₀₀₀₀₀₀₀₀₀₀₀₀₀₀₀₀₀₀₀₀₀₀₀
+
+
+😎😎😎😎😎😎😎😎😎😎😎😎😎
 <!--
 **Hamroliyev/Hamroliyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
