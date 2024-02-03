@@ -18,10 +18,10 @@ I can help you out with:
 
 Be sure, because you get the value that you pay for. Don't hesitate to negotiate 100% moneyback in case the result I offer you does not meet your expectations.
 
-[![Hamroliyev Ahmadjon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamroliyev)](https://github.com/anuraghazra/github-readme-stats)
+![Ahmadjon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamroliyev&show_icons=true&theme=dark)
 
 Have a look at my portfolio items in this profile. Once you feel we are a good fit, contact me 💬.
 
 Looking forward to hearing from you.
 
-[Linkedin](https://www.linkedin.com/in/ahmadjon-hamroliyev-70b9b7270/) | [Telegram](t.me/Hamroliyev_1909)
+[Linkedin](https://www.linkedin.com/in/ahmadjon-hamroliyev-70b9b7270/) | [Telegram](https://t.me/@Hamroliyev_1909)
