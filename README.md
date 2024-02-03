@@ -8,13 +8,13 @@ The skills I can offer you include (but are not limited to) Web API, ASP.NET MVC
 
 I can help you out with:
 
-→ Web apps and APIs
+⚽ Web apps and APIs
 
-→ Creating Intranet systems
+⚽ Creating Intranet systems
 
-→ Deployment to Azure
+⚽ Deployment to Azure
 
-→ Unit, Acceptance and Integration testing
+⚽ Unit, Acceptance, and Integration testing
 
 Be sure, because you get the value that you pay for. Don't hesitate to negotiate 100% moneyback in case the result I offer you does not meet your expectations.
 
@@ -24,4 +24,4 @@ Have a look at my portfolio items in this profile. Once you feel we are a good f
 
 Looking forward to hearing from you.
 
-[Linkedin](https://www.linkedin.com/in/ahmadjon-hamroliyev-70b9b7270/) | [Telegram](Hamroliyev_1909)
+[Linkedin](https://www.linkedin.com/in/ahmadjon-hamroliyev-70b9b7270/) | [Telegram](t.me/Hamroliyev_1909)
