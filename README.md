@@ -24,4 +24,4 @@ Have a look at my portfolio items in this profile. Once you feel we are a good f
 
 Looking forward to hearing from you.
 
-[Linkedin](https://www.linkedin.com/in/ahmadjon-hamroliyev-70b9b7270/) | [Telegram](t.me//@hamroliyev_1909)
+[Linkedin](https://www.linkedin.com/in/ahmadjon-hamroliyev-70b9b7270/) | [Telegram](t.me//hamroliyev_1909)
