@@ -1,27 +1,35 @@
 # Hi there, I am Ahmadjon 👋
 
-I'm a White .Net software engineer.
+I'm a **Professional .NET Software Engineer**.
 
-If you are looking for a Professional .NET web developer who can create a new website, refactor legacy code or improve the current performance of your app, then you are at the right place!
+If you are looking for a developer who can build modern web applications, refactor legacy code, or optimize system performance, you are in the right place! My experience with leading companies ensures your project will be delivered according to high industry standards and strict deadlines.
 
-The skills I can offer you include (but are not limited to) Web API, ASP.NET MVC, Azure, C#, and T-SQL. My experience working in leading companies, in the U.S. assures you can have your ideal .NET project up and running according to your deadlines.
+---
 
-I can help you out with:
+### 🛠 My Tech Stack & Expertise
 
-⚽ Web apps and APIs
+* **Backend:** C#, .NET Web API, ASP.NET MVC
+* **Database:** T-SQL (SQL Server), Query Optimization
+* **Cloud:** Azure Deployment & Infrastructure
+* **Testing:** Unit, Acceptance, and Integration Testing
 
-⚽ Creating Intranet systems
+### 🚀 How I Can Add Value
+* **Web Apps & APIs:** Building scalable, secure, and fast web services.
+* **Enterprise Systems:** Developing robust Intranet systems for business logic.
+* **Cloud Strategy:** Professional deployment and management on Azure.
+* **Code Quality:** Refactoring legacy systems into clean, maintainable code.
 
-⚽ Deployment to Azure
+> **Confidence in Quality:** I offer a 100% satisfaction guarantee. If the results do not meet your expectations, I am open to a full money-back negotiation. You get the value you pay for.
 
-⚽ Unit, Acceptance, and Integration testing
+---
 
-Be sure, because you get the value that you pay for. Don't hesitate to negotiate 100% moneyback in case the result I offer you does not meet your expectations.
+### 📊 My GitHub Statistics
 
-![Ahmadjon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamroliyev&show_icons=true&theme=dark)
+![Ahmadjon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamroliyev&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 
-Have a look at my portfolio items in this profile. Once you feel we are a good fit, contact me 💬.
+---
 
-Looking forward to hearing from you.
+### 💬 Let's Connect
+Have a look at my portfolio repositories below. Once you feel we are a good fit, don't hesitate to reach out!
 
-[Linkedin](https://www.linkedin.com/in/ahmadjon-hamroliyev-70b9b7270/) | [Telegram](https://t.me/Hamroliyev_1909)
+[**LinkedIn**](https://www.linkedin.com/in/ahmadjon-hamroliyev-70b9b7270/) | [**Telegram**](https://t.me/Hamroliyev_1909)
